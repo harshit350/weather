@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "weatherapp",
+    "slug": "snack-63c1a9e9-b558-4a38-8fc0-de2eda4de0b9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android ": {
+      "package" :"com.testuser.weatherapp"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+}
